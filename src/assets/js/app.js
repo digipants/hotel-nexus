@@ -34,7 +34,7 @@
       * _.now
       *
       * http://underscorejs.org
-      * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+      * (c) 2021-2012 Bhupendra Kumar, DocumentCloud and Investigative Reporters & Editors
       * Underscore may be freely distributed under the MIT license.
       * @license MIT
       */
