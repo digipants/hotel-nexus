@@ -1164,9 +1164,9 @@ textarea.w-select {
 
 .w-slider {
     position: relative;
-    height: 300px;
+    height: 600px;
     text-align: center;
-    background: #dddddd;
+    background: #fbfbfb;
     clear: both;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -1397,6 +1397,31 @@ textarea.w-select {
 
 .w-dropdown-link:focus {
     outline: 0
+}
+
+.slider-nav {
+    bottom: 5px;
+    color: #faf8f8;
+    font-size: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+.container.narrow {
+    max-width: 830px;
+}
+
+.container.narrow.center {
+    text-align: center;
+}
+
+.section.slider-section {
+    position: relative;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #fff;
 }
 
 @media screen and (max-width:767px) {
@@ -4047,6 +4072,26 @@ figcaption {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+}
+
+.slide {
+    background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.slide.restaurant {
+    background-image: url("https://ratanainternational.com/assets/images/restaurant.jpeg");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.slide.restaurant._2 {
+    background-image: url("https://crafterina.co/assets/images/food-1920x969.png");
+}
+
+.slide.restaurant._3 {
+    background-image: url("https://assets.website-files.com/5e6fa3fee53be89cfb4fb9b1/5e73685ea2128c0634c6bbd7_restaurant-3.jpeg");
 }
 
 @media screen and (max-width: 991px) {
