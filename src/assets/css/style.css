@@ -2776,8 +2776,8 @@ figcaption {
     -webkit-justify-content: flex-end;
     -ms-flex-pack: end;
     justify-content: flex-end;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, rgba(1, 14, 26, 0)), to(rgba(1, 14, 26, 0.9))), url("https://crafterina.co/assets/images/6040cfb3f7456d31651f897b_Our%20rooms%20BG.jpg");
-    background-image: linear-gradient(180deg, rgba(1, 14, 26, 0) 63%, rgba(1, 14, 26, 0.9)), url("https://crafterina.co/assets/images/6040cfb3f7456d31651f897b_Our%20rooms%20BG.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, rgba(1, 14, 26, 0)), to(rgba(1, 14, 26, 0.9))), url("https://crafterina.co/assets/images/6041272010042a4862b9b30d_Events06-p-1080.jpeg");
+    background-image: linear-gradient(180deg, rgba(1, 14, 26, 0) 63%, rgba(1, 14, 26, 0.9)), url("https://crafterina.co/assets/images/6041272010042a4862b9b30d_Events06-p-1080.jpeg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     -webkit-transition-property: none;
@@ -2793,8 +2793,8 @@ figcaption {
 }
 
 .cta-wrap.contact {
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, rgba(1, 14, 26, 0)), to(rgba(1, 14, 26, 0.9))), url("https://crafterina.co/assets/images/6040cfb3bb436b3290e08e6f_Contact%20BG.jpg");
-    background-image: linear-gradient(180deg, rgba(1, 14, 26, 0) 63%, rgba(1, 14, 26, 0.9)), url("https://crafterina.co/assets/images/6040cfb3bb436b3290e08e6f_Contact%20BG.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, rgba(1, 14, 26, 0)), to(rgba(1, 14, 26, 0.9))), url("https://crafterina.co/assets/images/604127892ccf6fc46a96a599_Events05.jpg");
+    background-image: linear-gradient(180deg, rgba(1, 14, 26, 0) 63%, rgba(1, 14, 26, 0.9)), url("https://crafterina.co/assets/images/604127892ccf6fc46a96a599_Events05.jpg");
 }
 
 .cta-heading {
