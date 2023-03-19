@@ -2902,7 +2902,7 @@ figcaption {
 .slide {
     position: static;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/Suite Room 315 (2).JPG");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/Suite Room 315 (2).JPG");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0)), url("https://crafterina.co/assets/images/Suite Room 315 (2).JPG");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -2919,7 +2919,7 @@ figcaption {
     margin-top: 0px;
     margin-bottom: 40px;
     font-family: Literata72pt, sans-serif;
-    color: #fff;
+    color: #330f0f;
     font-size: 110px;
     line-height: 1;
     font-weight: 400;
