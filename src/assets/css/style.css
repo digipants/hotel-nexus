@@ -1,3 +1,5 @@
+@import url(font-awesome.min.css);
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -2901,8 +2903,8 @@ figcaption {
 
 .slide {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/room-1440x900.png");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0)), url("https://crafterina.co/assets/images/room-1440x900.png");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/suite-flipped.png");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0)), url("https://crafterina.co/assets/images/suite-flipped.png");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -2994,6 +2996,48 @@ figcaption {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
+}
+
+.elementor-element.elementor-element-d13ab92.elementor-widget.elementor-widget-html {
+    width: 15%;
+    height: 35%;
+    margin-left: 80px;
+    margin-top: 250px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #0000007b;
+
+}
+
+p.book_fst {
+    color: white;
+}
+
+h2.book_scn {
+    color: #fcb80d;
+    margin-bottom: -10px;
+}
+
+h2.book_thr {
+    color: #f96d64;
+    font-size: 42px;
+    border-bottom: 1px solid white;
+}
+
+.ext_of {
+    color: white;
+}
+
+.btn_book_dr {
+    margin-top: 21px;
+    margin-bottom: 10px;
+}
+
+a.book_frth {
+    background-color: #bb534d;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .slide-2 {
