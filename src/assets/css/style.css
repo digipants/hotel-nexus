@@ -967,6 +967,11 @@ textarea.w-select {
     .w-col-tiny-12 {
         width: 100%
     }
+
+    .elementor-element.elementor-element-d13ab92.elementor-widget.elementor-widget-html {
+        width: 250px !important;
+        margin-left: 40px !important;
+    }
 }
 
 .w-widget {
@@ -2999,8 +3004,8 @@ figcaption {
 }
 
 .elementor-element.elementor-element-d13ab92.elementor-widget.elementor-widget-html {
-    width: 15%;
-    height: 35%;
+    width: 300px;
+    height: auto;
     margin-left: 80px;
     margin-top: 250px;
     padding: 20px;
