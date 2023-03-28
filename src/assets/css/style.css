@@ -3442,7 +3442,8 @@ a.book_frth {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 100px;
-    background-color: rgba(102, 115, 128, 0.2);
+    border: solid 1px white;
+    background-color: #053a6b6a;
     cursor: pointer;
 }
 
@@ -4846,7 +4847,7 @@ a.book_frth {
     }
 
     .right-arrow {
-        bottom: 0px;
+        bottom: -60px;
         width: 48px;
         height: 48px;
     }
