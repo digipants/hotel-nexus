@@ -2468,8 +2468,8 @@ figcaption {
     margin-top: 0px;
     margin-bottom: 90px;
     font-family: Literata72pt, sans-serif;
-    color: #ff9501;
-    font-size: 90px;
+    color: #05396b;
+    font-size: 110px;
     line-height: 1;
     font-weight: 400;
     letter-spacing: -3px;
@@ -3442,8 +3442,7 @@ a.book_frth {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 100px;
-    border: solid 1px white;
-    background-color: #053a6b6a;
+    background-color: rgba(102, 115, 128, 0.2);
     cursor: pointer;
 }
 
@@ -3892,7 +3891,7 @@ a.book_frth {
     bottom: auto;
     width: 100%;
     height: 100%;
-    background-image: url("https://crafterina.co/assets/images/Rooftop Dinner Section 3.JPG");
+    background-image: url("https://crafterina.co/assets/images/menu-bg.jpg");
     background-position: 50% 50%;
     background-size: auto;
     background-repeat: no-repeat;
@@ -4847,7 +4846,7 @@ a.book_frth {
     }
 
     .right-arrow {
-        bottom: -60px;
+        bottom: 0px;
         width: 48px;
         height: 48px;
     }
