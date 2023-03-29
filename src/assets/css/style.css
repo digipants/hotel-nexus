@@ -971,6 +971,7 @@ textarea.w-select {
     .elementor-element.elementor-element-d13ab92.elementor-widget.elementor-widget-html {
         width: 250px !important;
         margin-left: 40px !important;
+        margin-top: 150px !important;
     }
 }
 
@@ -2468,8 +2469,8 @@ figcaption {
     margin-top: 0px;
     margin-bottom: 90px;
     font-family: Literata72pt, sans-serif;
-    color: #05396b;
-    font-size: 110px;
+    color: #ff9501;
+    font-size: 90px;
     line-height: 1;
     font-weight: 400;
     letter-spacing: -3px;
@@ -3442,7 +3443,8 @@ a.book_frth {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 100px;
-    background-color: rgba(102, 115, 128, 0.2);
+    border: solid 1px white;
+    background-color: #053a6b6a;
     cursor: pointer;
 }
 
@@ -3891,7 +3893,7 @@ a.book_frth {
     bottom: auto;
     width: 100%;
     height: 100%;
-    background-image: url("https://crafterina.co/assets/images/menu-bg.jpg");
+    background-image: url("https://crafterina.co/assets/images/Rooftop Dinner Section 3.JPG");
     background-position: 50% 50%;
     background-size: auto;
     background-repeat: no-repeat;
@@ -4796,7 +4798,7 @@ a.book_frth {
     }
 
     .section.reviews {
-        padding-bottom: 148px;
+        padding-bottom: 50px;
     }
 
     .extra-large-heading {
@@ -4846,7 +4848,6 @@ a.book_frth {
     }
 
     .right-arrow {
-        bottom: 0px;
         width: 48px;
         height: 48px;
     }
@@ -4856,7 +4857,6 @@ a.book_frth {
     }
 
     .left-arrow {
-        bottom: 0px;
         overflow: visible;
         width: 48px;
         height: 48px;
@@ -4911,14 +4911,22 @@ a.book_frth {
         padding-left: 24px;
     }
 
+    .w-slider-arrow-left.reviews-left-arrow{
+        padding-bottom: 0px;
+    }
+
+    .w-slider-arrow-right.reviews-right-arrow{
+        padding-bottom: 0px;
+    }
+
     .reviews-right-arrow {
-        bottom: -88px;
+        bottom: 250px;
         width: 48px;
         height: 48px;
     }
 
     .reviews-left-arrow {
-        bottom: -88px;
+        bottom: 250px;
         width: 48px;
         height: 48px;
     }
@@ -5065,7 +5073,7 @@ a.book_frth {
 
     .w-slider-arrow-left,
     .w-slider-arrow-right {
-        padding-bottom: 400px;
+        padding-bottom: 200px;
     }
 
     .container.slider {
