@@ -972,6 +972,7 @@ textarea.w-select {
         width: 250px !important;
         margin-left: 40px !important;
         margin-top: 150px !important;
+        background-color: #0000008d !important;
     }
 }
 
@@ -3048,8 +3049,8 @@ a.book_frth {
 
 .slide-2 {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/book-room.jpg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/book-room.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/Suite Room 315 (2).JPG");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/Suite Room 315 (2).JPG");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -3466,10 +3467,10 @@ a.book_frth {
 
 .slide-3 {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/banquet-1920x969.jpeg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/banquet-1920x969.jpeg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/BANQUET06 .jpg");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/BANQUET06 .jpg");
     background-position: 0px 0px, 50% 50%;
-    background-size: auto, cover;
+    background-size: auto cover;
 }
 
 .slide-4 {
@@ -5086,6 +5087,10 @@ a.book_frth {
 
     .section.hero {
         min-height: unset;
+    }
+
+    .slide {
+        background-position: 0px 0px, 80% 50%;
     }
 
     
