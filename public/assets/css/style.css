@@ -3473,7 +3473,7 @@ a.book_frth {
     position: static;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/DSC_3413 (1).JPG");
     background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/DSC_3413 (1).JPG");
-    background-position: 0px 0px, 50% 50%;
+    background-position: 0px 0px, 20% 50%;
     background-size: auto, cover;
 }
 
@@ -5086,7 +5086,7 @@ a.book_frth {
     }
 
     .hero-slider {
-        height: 600px;
+        height: 700px;
     }
 
     .section.hero {
