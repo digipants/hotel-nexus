@@ -2936,7 +2936,7 @@ figcaption {
     font-weight: 400;
     letter-spacing: -3px;
     text-transform: uppercase;
-    background-color: #000000cd;
+    background-color: #00000091;
     border-radius: 5px;
 }
 
@@ -5078,11 +5078,11 @@ a.book_frth {
 
     .w-slider-arrow-left,
     .w-slider-arrow-right {
-        padding-bottom: 200px;
+        padding-bottom: 250px;
     }
 
     .container.slider {
-        padding-bottom: 400px;
+        padding-bottom: 450px;
     }
 
     .hero-slider {
