@@ -2925,6 +2925,8 @@ figcaption {
 }
 
 .slider-heading {
+    padding: 20px;
+    max-width: 100%;
     margin-top: 0px;
     margin-bottom: 40px;
     font-family: Literata72pt, sans-serif;
@@ -2934,6 +2936,8 @@ figcaption {
     font-weight: 400;
     letter-spacing: -3px;
     text-transform: uppercase;
+    background-color: #000000cd;
+    border-radius: 5px;
 }
 
 .slide-nav {
@@ -3470,7 +3474,7 @@ a.book_frth {
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://crafterina.co/assets/images/DSC_3413 (1).JPG");
     background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://crafterina.co/assets/images/DSC_3413 (1).JPG");
     background-position: 0px 0px, 50% 50%;
-    background-size: auto cover;
+    background-size: auto, cover;
 }
 
 .slide-4 {
