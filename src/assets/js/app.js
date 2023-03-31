@@ -28615,9 +28615,9 @@ digipants.require("ix2").init({
               id: "a-12-n-6",
               actionTypeId: "STYLE_OPACITY",
               config: {
-                delay: 1000,
+                delay: 500,
                 easing: "outCubic",
-                duration: 1000,
+                duration: 500,
                 target: { id: "3195e7d4-4e6f-a4c4-2c63-8d1c4378d25a" },
                 value: 0,
                 unit: "",

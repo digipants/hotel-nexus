@@ -3986,7 +3986,7 @@ a.book_frth {
     right: 0%;
     bottom: 0%;
     z-index: 1500;
-    display: none;
+    display: block;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
