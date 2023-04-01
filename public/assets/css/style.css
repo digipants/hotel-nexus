@@ -2440,8 +2440,8 @@ figcaption {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    min-height: 100vh;
-    padding-bottom: 300px;
+    height: auto;
+    padding-top: 250px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -5098,7 +5098,8 @@ a.book_frth {
     }
 
     .w-slider-nav {
-        bottom: 250px;
+        position: relative;
+        bottom: 50px;
     }
     
 }
