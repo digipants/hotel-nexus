@@ -2941,7 +2941,7 @@ figcaption {
 }
 
 .slide-nav {
-    display: none;
+    display: block;
 }
 
 .right-arrow {
@@ -5097,6 +5097,9 @@ a.book_frth {
         background-position: 0px 0px, 80% 50%;
     }
 
+    .w-slider-nav {
+        bottom: 250px;
+    }
     
 }
 
