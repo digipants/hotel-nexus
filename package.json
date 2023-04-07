@@ -20,5 +20,8 @@
   "homepage": "https://github.com/digipants/hotel-nexus#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.15"
   }
 }
