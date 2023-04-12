@@ -4213,6 +4213,17 @@ a.book_frth {
     border-radius: 5px;
 }
 
+.gallery img {
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.gallery img:hover{
+    transform: scale(1.1);
+}
+
 @media screen and (max-width: 991px) {
     .section {
         padding-top: 110px;
