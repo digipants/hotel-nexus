@@ -4224,6 +4224,10 @@ a.book_frth {
     transform: scale(1.1);
 }
 
+.brand img {
+    max-width: 200px;
+}
+
 @media screen and (max-width: 991px) {
     .section {
         padding-top: 110px;
@@ -5135,6 +5139,10 @@ a.book_frth {
 
     .book-slider {
         max-height: 200px;
+    }
+
+    .brand img {
+        max-width: 100px;
     }
     
 }
